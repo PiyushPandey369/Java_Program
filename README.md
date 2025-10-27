@@ -36,6 +36,28 @@ An interactive quiz game where users can answer multiple-choice questions. Built
 - Score tracking  
 - Attractive and interactive GUI  
 
-
-
+Folder Structure
+``` bash
+ Java_Program/
+│
+├── src/
+│   └── project_java/
+│       ├── Calculator_Clone/
+│       │   ├── Calculator_Class.java
+│       │   └── README.md
+│       │
+│       ├── Quiz_Game/
+│       │   ├── Quiz_Login.java
+│       │   ├── Quiz_Main.java
+│       │   ├── Quiz_Rule.java
+│       │   ├── Quiz_Score.java
+│       │   └── README.md
+│       │
+│       ├── TicTacToe/
+│       │   ├── TicTacToe.java
+│       │   └── README.md
+│
+├── README.md
+└── .gitignore
+```
 
