@@ -39,8 +39,7 @@ Quiz_Game
 ```
 ## Screenshots
 
-![Quiz_Game Screenshot](https://raw.githubusercontent.com/PiyushPandey369/Java_Program/main/src/project_java/Quiz_Game\Quiz_Game_image.png)
-
+![Quiz_Game Screenshot](https://raw.githubusercontent.com/PiyushPandey369/Java_Program/main/src/project_java/Quiz_Game/Quiz_Game_image.png)
 
 ## Future Enhancements
 
