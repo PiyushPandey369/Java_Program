@@ -55,7 +55,6 @@ iii) Implement levels of difficulty (easy, medium, hard).
 Piyush Pandey  
 Email: piyushpandeya013@gmail.com
 
-
 ## Contributing
 
 Contributions are always welcome!
